@@ -265,7 +265,7 @@ The platform seamlessly integrates with the SPS Public Key Repository to retriev
 
 For further assistance, support, or inquiries related to the SIPS Connect Platform, please contact our support team:
 
-- **Support Portal:** [www.support.sps.so](https://www.support.sps.so)
+- **Support Portal:** [www.support.sps.so](https://support.sps.so)
 
 ---
 
