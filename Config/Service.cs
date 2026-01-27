@@ -324,7 +324,9 @@ public static class DI
 
         // Register Balance Monitoring Service
         services.AddScoped<IBalanceMonitoringService, BalanceMonitoringService>();
-
+        
+        services.AddSingleton<ILogService, LogService>();
+        
         services.AddCore(configuration);
     }
 }
